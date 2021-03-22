@@ -71,3 +71,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://pink-whale-7edf8.netlify.app'
