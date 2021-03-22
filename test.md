@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: This is a title.
 seo:
   title: ''
   description: ''
